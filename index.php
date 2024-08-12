@@ -1,5 +1,5 @@
 <?php
-// phpinfo(); 
+// phpinfo();
 const API_URL = "https://whenisthenextmcufilm.com/api";
 # Inicializar una nueva sesion de cURL; ch = cURL handle
 $ch = curl_init(API_URL);
